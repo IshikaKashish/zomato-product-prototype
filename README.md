@@ -1,6 +1,6 @@
 # Zomato : Product Teardown & Redesign Prototype
 
-## Prototype
+## Quick links
 
 **[🚀 Launch Interactive Prototype](https://ishikakashish.github.io/zomato-product-prototype/)**
 
